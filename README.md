@@ -1,1 +1,1 @@
-test2.0
+This is a demo README content for openclaw-testing.
